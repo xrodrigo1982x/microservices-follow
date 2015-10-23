@@ -1,0 +1,5 @@
+info:
+  artifact: ${project.artifactId}
+  name: ${spring.application.name}
+  description: ${project.description}
+  version: ${project.version}
